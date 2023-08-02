@@ -1,1 +1,0 @@
-# ADMN5016-Applied-Artifical-Intelligence-Machine-Learning
